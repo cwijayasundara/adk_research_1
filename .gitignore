@@ -1,0 +1,7 @@
+__pycache__
+.env
+agent_grammar/__pycache__
+agent_summary/__pycache__
+math_agent/__pycache__
+.DS_Store
+.venv

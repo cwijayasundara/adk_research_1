@@ -1,0 +1,4 @@
+python-dotenv
+google-adk==0.3.0
+litellm
+google-cloud-aiplatform[agent_engines]
