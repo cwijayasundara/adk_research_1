@@ -5,3 +5,4 @@ agent_summary/__pycache__
 math_agent/__pycache__
 .DS_Store
 .venv
+.gitignore
